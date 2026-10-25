@@ -1,0 +1,7 @@
+{
+  "name": "Orbit | Advanced Medical Transcription & Diagnostic Assistant",
+  "description": "Expert-level analysis of clinical conversations with pattern recognition and medical literature grounding for healthcare professionals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
